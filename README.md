@@ -7,11 +7,11 @@ composer require httpguard/package
 ``
 
 ## Features:
-* Remote Fork Protection, it protects the Resources like Stylesheets and Javascript.. Currently it doesnt have a feature deployed and theorized in it called Credentials but will be adding soon..
+* Remote Fork Protection, it protects the Resources like Stylesheets and Javascript.. Currently it doesnt have a feature deployed and theorized in it called Credentials but will be adding soon.. [![RFP](https://raw.githubusercontent.com/binarykorra/HTTPGuard/main/svgs/HTTPGuardIncomplete.svg)](https://github.com/binarykorra/HTTPGuard)
 
-* Anti Scraping Feature for Web Scraping, it blocks the access to the Web Application through requests and disallows several scraping through a non credential-based firewall..
+* Anti Scraping Feature for Web Scraping, it blocks the access to the Web Application through requests and disallows several scraping through a non credential-based firewall.. [![AS](https://raw.githubusercontent.com/binarykorra/HTTPGuard/main/svgs/HTTPGuardIncomplete.svg)](https://github.com/binarykorra/HTTPGuard)
 
-* PAT (Personal Access Token) for completely everything about credentials-based firewall.. It doesnt have special features like a firewall other than blocking it completely through credentials.. [![PAT](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=black)](https://github.com/binarykorra/HTTPGuard)
+* PAT (Personal Access Token) for completely everything about credentials-based firewall.. It doesnt have special features like a firewall other than blocking it completely through credentials.. [![PAT](https://raw.githubusercontent.com/binarykorra/HTTPGuard/main/svgs/HTTPGuardPassed.svg)](https://github.com/binarykorra/HTTPGuard)
 
 ### Copyright since ( 2022 )
 ( C ) - [BinaryKorra](https://github.com/binarykorra), 09225205353
