@@ -11,7 +11,7 @@ composer require httpguard/package
 
 * Anti Scraping Feature for Web Scraping, it blocks the access to the Web Application through requests and disallows several scraping through a non credential-based firewall.. [![AS](https://raw.githubusercontent.com/binarykorra/HTTPGuard/main/svgs/HTTPGuardIncomplete.svg)](https://github.com/binarykorra/HTTPGuard)
 
-* PAT (Personal Access Token) for completely everything about credentials-based firewall.. It doesnt have special features like a firewall other than blocking it completely through credentials.. [![PAT](https://raw.githubusercontent.com/binarykorra/HTTPGuard/main/svgs/HTTPGuardPassed.svg)](https://github.com/binarykorra/HTTPGuard)
+* PAT (Personal Access Token) for completely everything about credentials-based firewall.. It doesnt have special features like a firewall other than blocking it completely through credentials.. [![PAT](https://raw.githubusercontent.com/binarykorra/HTTPGuard/main/svgs/HTTPGuardComplete.svg)](https://github.com/binarykorra/HTTPGuard)
 
 ### Copyright since ( 2022 )
 ( C ) - [BinaryKorra](https://github.com/binarykorra), 09225205353
