@@ -9,7 +9,9 @@ composer require httpguard/package
 ## Features:
 * Remote Fork Protection, it protects the Resources like Stylesheets and Javascript.. Currently it doesnt have a feature deployed and theorized in it called Credentials but will be adding soon.. [![RFP](https://raw.githubusercontent.com/binarykorra/HTTPGuard/main/svgs/HTTPGuardIncomplete.svg)](https://github.com/binarykorra/HTTPGuard)
 
-* Anti Scraping Feature for Web Scraping, it blocks the access to the Web Application through requests and disallows several scraping through a non credential-based firewall.. [![AS](https://raw.githubusercontent.com/binarykorra/HTTPGuard/main/svgs/HTTPGuardIncomplete.svg)](https://github.com/binarykorra/HTTPGuard)
+* Anti Scraping feature for Web Scraping, it blocks the access to the Web Application through requests and disallows several scraping through a non credential-based firewall.. [![AS](https://raw.githubusercontent.com/binarykorra/HTTPGuard/main/svgs/HTTPGuardIncomplete.svg)](https://github.com/binarykorra/HTTPGuard)
+
+* Flow Bridge, is a Feature which disallows several Requests into the Webapp through URL Access and has a Credential-based Firewall integrated into it.. [![FB](https://raw.githubusercontent.com/binarykorra/HTTPGuard/main/svgs/HTTPGuardIncomplete.svg)](https://github.com/binarykorra/HTTPGuard)
 
 * PAT (Personal Access Token) for completely everything about credentials-based firewall.. It doesnt have special features like a firewall other than blocking it completely through credentials.. [![PAT](https://raw.githubusercontent.com/binarykorra/HTTPGuard/main/svgs/HTTPGuardComplete.svg)](https://github.com/binarykorra/HTTPGuard)
 
