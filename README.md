@@ -15,7 +15,9 @@ composer require httpguard/package
 
 * PAT (Personal Access Token) for completely everything about credentials-based firewall.. It doesnt have special features like a firewall other than blocking it completely through credentials, PAT is made for internal structures or inner feature that blocks the access if you are logged in another website, Stays the same on other credentials as long as the cache used on your cURL is setup for login.. [![PAT](https://raw.githubusercontent.com/binarykorra/HTTPGuard/main/svgs/HTTPGuardComplete.svg)](https://github.com/binarykorra/HTTPGuard)
 
-* Final Build: [![Build](https://raw.githubusercontent.com/binarykorra/HTTPGuard/main/svgs/HTTPGuardFailed.svg)](https://github.com/binarykorra/HTTPGuard)
+* Final Build:
+
+* [![Build](https://raw.githubusercontent.com/binarykorra/HTTPGuard/main/svgs/HTTPGuardFailed.svg)](https://github.com/binarykorra/HTTPGuard)
 
 ### Copyright since ( 2022 )
 ( C ) - [BinaryKorra](https://github.com/binarykorra), 09225205353
