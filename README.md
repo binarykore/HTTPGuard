@@ -11,7 +11,9 @@ composer require httpguard/package
 
 * Anti Scraping Protection feature for Web Scraping, it blocks the access to the Web Application through requests and disallows several scraping through a non credential-based firewall.. [![AS](https://raw.githubusercontent.com/binarykorra/HTTPGuard/main/svgs/HTTPGuardComplete.svg)](https://github.com/binarykorra/HTTPGuard)
 
-* Flow Bridge, is a feature which disallows several Requests into the Webapp through URL Access and has a Credential-based firewall integrated into it.. [![FB](https://raw.githubusercontent.com/binarykorra/HTTPGuard/main/svgs/HTTPGuardIncomplete.svg)](https://github.com/binarykorra/HTTPGuard)
+* Flow Bridge Protection, is a feature which disallows several Requests into the Webapp through URL Access and has a Credential-based firewall integrated into it.. [![FB](https://raw.githubusercontent.com/binarykorra/HTTPGuard/main/svgs/HTTPGuardComplete.svg)](https://github.com/binarykorra/HTTPGuard)
+
+* HTTP Tunnel Protection is a credentials-based firewall with Middleman Honeypot like capabilities made to scrape and tunnel a Website without the need of DNS like settings like a CName and A Records [![HTP](https://raw.githubusercontent.com/binarykorra/HTTPGuard/main/svgs/HTTPGuardIncomplete.svg)](https://github.com/binarykorra/HTTPGuard)
 
 * PAT (Personal Access Token) for completely everything about credentials-based firewall.. It doesnt have special features like a firewall other than blocking it completely through credentials, PAT is made for internal structures or inner feature that blocks the access if you are logged in another website, Stays the same on other credentials as long as the cache used on your cURL is setup for login.. [![PAT](https://raw.githubusercontent.com/binarykorra/HTTPGuard/main/svgs/HTTPGuardComplete.svg)](https://github.com/binarykorra/HTTPGuard)
 
