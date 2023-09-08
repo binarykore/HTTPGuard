@@ -1,5 +1,5 @@
 # HTTPGuard
-HTTP Guard or Project Bakunawa (Filipino Myth / Legend of a Serpent-like Bird) is a WAF (Web Application Firewall) Developer Kit made for Web Developers, it is made for Requests that Blocks the Access to the Web Application or Platform and it is a Credentials-based Firewall made for PHP and soon on Go Language..
+HTTP Guard or Project Bakunawa (Filipino Myth / Legend of a Serpent-like Dragon) is a WAF (Web Application Firewall) Developer Kit made for Web Developers, it is made for Requests that Blocks the Access to the Web Application or Platform and it is a Credentials-based Firewall made for PHP and soon on Go Language..
 
 ## How to Deploy:
 ``
