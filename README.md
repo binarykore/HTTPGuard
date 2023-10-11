@@ -19,6 +19,8 @@ use \httpguard\core as gard;
   <br/>
   <br/>
   <code>Send Money: 09225205353 (GCash)</code>
+  <br/>
+  <br/>
   <code>Send Money: 09225205353 (Maya,soon)</code>
   <br/>
   <code>Send Money: 09225205353 (Coins PH)</code>
