@@ -2,8 +2,13 @@
 HTTP Guard or Project Bakunawa (Filipino Myth / Legend of a Serpent-like Dragon) is a WAF (Web Application Firewall) Developer Kit made for Web Developers, it is made for Requests that Blocks the Access to the Web Application or Platform and it is a Credentials-based Firewall made for PHP and soon on Go Language..
 
 ## How to Deploy:
-```shell
+``
 composer require binarymako/httpguard
+``
+
+```php
+Require_Once($_SERVER["DOCUMENT_ROOT"].("/vendor/autoload.php"));
+use \httpguard\core as gard;
 ```
 
 ## Donations and Payments:
@@ -14,18 +19,19 @@ composer require binarymako/httpguard
   <br/>
   <br/>
   <code>Send Money: 09225205353 (GCash)</code>
+  <code>Send Money: 09225205353 (Maya,soon)</code>
   <br/>
   <code>Send Money: 09225205353 (Coins PH)</code>
   <br/>
   <code>Send Money: 09225205353 (Palawan Pay)</code>
   <br/>
-  <code>Remittance: 09225205353 (7/11 > GCash / Coins PH)</code>
+  <code>Remittance: 09225205353 (7/11 > GCash / Coins PH, Maya)</code>
   <br/>
-  <code>Remittance: 09225205353 (Palawan > GCash / Coins PH)</code>
+  <code>Remittance: 09225205353 (Palawan > GCash / Coins PH, Maya)</code>
   <br/>
-  <code>Remittance: 09225205353 (Cebuana > GCash / Coins PH)</code>
+  <code>Remittance: 09225205353 (Cebuana > GCash / Coins PH, Maya)</code>
   <br/>
-  <code>Remittance: 09225205353 (MLhuillier > GCash / Coins PH)</code>
+  <code>Remittance: 09225205353 (MLhuillier > GCash / Coins PH, Maya)</code>
 </p>
 <br/>
 <p>
