@@ -26,13 +26,13 @@ use \httpguard\core as gard;
   <br/>
   <code>Send Money: 09225205353 (Palawan Pay)</code>
   <br/>
-  <code>Remittance: 09225205353 (7/11 > GCash / Coins PH, Maya)</code>
+  <code>Remittance: 09225205353 (7/11 > GCash / Coins PH / Maya, soon)</code>
   <br/>
-  <code>Remittance: 09225205353 (Palawan > GCash / Coins PH, Maya)</code>
+  <code>Remittance: 09225205353 (Palawan > GCash / Coins PH / Maya, soon)</code>
   <br/>
-  <code>Remittance: 09225205353 (Cebuana > GCash / Coins PH, Maya)</code>
+  <code>Remittance: 09225205353 (Cebuana > GCash / Coins PH / Maya, soon)</code>
   <br/>
-  <code>Remittance: 09225205353 (MLhuillier > GCash / Coins PH, Maya)</code>
+  <code>Remittance: 09225205353 (MLhuillier > GCash / Coins PH / Maya, soon)</code>
 </p>
 <br/>
 <p>
