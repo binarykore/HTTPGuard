@@ -2,9 +2,39 @@
 HTTP Guard or Project Bakunawa (Filipino Myth / Legend of a Serpent-like Dragon) is a WAF (Web Application Firewall) Developer Kit made for Web Developers, it is made for Requests that Blocks the Access to the Web Application or Platform and it is a Credentials-based Firewall made for PHP and soon on Go Language..
 
 ## How to Deploy:
-``
-composer require httpguard/package
-``
+```shell
+composer require binarymako/httpguard
+```
+
+## Donations and Payments:
+<details>
+<summary>Donations and Payments</summary>
+<p>
+  <code>EWallet - Send Money</code>
+  <br/>
+  <br/>
+  <code>Send Money: 09225205353 (GCash)</code>
+  <br/>
+  <code>Send Money: 09225205353 (Coins PH)</code>
+  <br/>
+  <code>Send Money: 09225205353 (Palawan Pay)</code>
+  <br/>
+  <code>Remittance: 09225205353 (7/11 > GCash / Coins PH)</code>
+  <br/>
+  <code>Remittance: 09225205353 (Palawan > GCash / Coins PH)</code>
+  <br/>
+  <code>Remittance: 09225205353 (Cebuana > GCash / Coins PH)</code>
+  <br/>
+  <code>Remittance: 09225205353 (MLhuillier > GCash / Coins PH)</code>
+</p>
+<br/>
+<p>
+  <code>QR Code (GCash):</code>
+</p>
+<p>
+  <img src="https://cdn.snowkel.us/image/redirect/gcash"></img>
+</p>
+</details>
 
 ## Features:
 * Remote Fork Protection, it protects the Resources like Stylesheets and Javascript.. Currently it doesnt have a feature deployed and theorized in it called Credentials but will be adding soon.. [![RFP](https://raw.githubusercontent.com/binarykore/HTTPGuard/main/svgs/HTTPGuardComplete.svg)](https://github.com/binarykore/HTTPGuard)
