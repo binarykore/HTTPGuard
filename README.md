@@ -59,4 +59,4 @@ use \httpguard\core as gard;
 * Final Build and Assessments.. [![Build](https://raw.githubusercontent.com/binarykore/HTTPGuard/main/svgs/HTTPGuardFailed.svg)](https://github.com/binarykore/HTTPGuard)
 
 ### Copyright since ( 2022 )
-( C ) - [BinaryKore](https://github.com/binarykore), 09225205353
+( C ) - [Binary Kore](https://github.com/binarykore), 09225205353
