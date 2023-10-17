@@ -54,7 +54,7 @@ use \httpguard\core as gard;
 
 * PAT (Personal Access Token) for completely everything about credentials-based firewall.. It doesnt have special features like a firewall other than blocking it completely through credentials, PAT is made for internal structures or inner feature that blocks the access if you are logged in another website, Stays the same on other credentials as long as the cache used on your cURL is setup for login.. [![PAT](https://raw.githubusercontent.com/binarykore/HTTPGuard/main/svgs/HTTPGuardComplete.svg)](https://github.com/binarykore/HTTPGuard)
 
-* RDP (Remote Download Protection) is a protection-based firewall for image and video contents that requires a subsidiary defense against downloads, scraping and other stuff.. [![IP](https://raw.githubusercontent.com/binarykore/HTTPGuard/main/svgs/HTTPGuardIncomplete.svg)](https://github.com/binarykore/HTTPGuard)
+* RCP (Remote Content Protection) is a protection-based firewall for image and video contents that requires a subsidiary defense against downloads, scraping and other stuff.. [![IP](https://raw.githubusercontent.com/binarykore/HTTPGuard/main/svgs/HTTPGuardIncomplete.svg)](https://github.com/binarykore/HTTPGuard)
 
 * Final Build and Assessments.. [![Build](https://raw.githubusercontent.com/binarykore/HTTPGuard/main/svgs/HTTPGuardFailed.svg)](https://github.com/binarykore/HTTPGuard)
 
