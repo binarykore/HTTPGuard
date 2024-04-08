@@ -26,6 +26,7 @@ use \httpguard\core as gard;
   <br/>
   <code>Send Money: 09225205353 (Palawan Pay)</code>
   <br/>
+  <br/>
   <code>E-Wallet - Remittance</code>
   <br/>
   <br/>
@@ -61,7 +62,7 @@ use \httpguard\core as gard;
 
 * CPP (Content Pageview Protection), is used for Entrypoints and mainly for Maintenance Pages via Boolean Switch which triggers the Maintenance Page upon activation other than Entrypoints.. It could be used as a Logger for Page View.. [![CPP](https://raw.githubusercontent.com/binarykore/HTTPGuard/main/svgs/HTTPGuardIncomplete.svg)](https://github.com/binarykore/HTTPGuard)
 
-* Final Build and Assessments.. [![Build](https://raw.githubusercontent.com/binarykore/HTTPGuard/main/svgs/HTTPGuardFailed.svg)](https://github.com/binarykore/HTTPGuard)
+* Final Build and Assessments: [![Build](https://raw.githubusercontent.com/binarykore/HTTPGuard/main/svgs/HTTPGuardFailed.svg)](https://github.com/binarykore/HTTPGuard)
 
 ### Copyright since ( 2022 )
 ( C ) - [Binary Kore](https://github.com/binarykore), 09225205353
