@@ -67,7 +67,7 @@ use \httpguard\core as gard;
 
 * RCP (Remote Content Protection), is a protection-based firewall for image and video contents that requires a subsidiary defense against downloads, scraping and other stuff.. [![RCP](https://raw.githubusercontent.com/binarykore/HTTPGuard/main/svgs/HTTPGuardIncomplete.svg)](https://github.com/binarykore/HTTPGuard)
 
-* CPP (Content Pageview Protection), is used for Entrypoints and mainly for Maintenance Pages via Boolean Switch which triggers the Maintenance Page upon activation other than Entrypoints.. It could be used as a Logger for Page View.. [![CPP](https://raw.githubusercontent.com/binarykore/HTTPGuard/main/svgs/HTTPGuardIncomplete.svg)](https://github.com/binarykore/HTTPGuard)
+* CPP (Content Pageview Protection), is used for Entrypoints and mainly for Maintenance Pages via Boolean Switch which triggers the Maintenance Page upon activation other than Entrypoints.. It could also be used as a Logger for Page View.. [![CPP](https://raw.githubusercontent.com/binarykore/HTTPGuard/main/svgs/HTTPGuardIncomplete.svg)](https://github.com/binarykore/HTTPGuard)
 
 * Final Build and Assessments: [![Build](https://raw.githubusercontent.com/binarykore/HTTPGuard/main/svgs/HTTPGuardFailed.svg)](https://github.com/binarykore/HTTPGuard)
 
